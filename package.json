@@ -1,0 +1,18 @@
+{
+  "name": "RollupStreamIssue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/stream": "^2.0.0",
+    "gulp": "^4.0.2",
+    "rollup": "^2.63.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
